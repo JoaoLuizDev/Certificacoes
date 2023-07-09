@@ -1,12 +1,12 @@
 # Lista de  Certificações
 
 Legenda:
-✅ - aprovado
-📚 - estudando
+- ✅ - aprovado
+- 📚 - estudando
 
 ## Certificações alcançadas
-- AWS Cloud Practitioner ✅
-- AZ-900: Fundamentos do Microsoft Azure ✅
+- **AWS Cloud Practitioner** ✅
+- **AZ-900: Fundamentos do Microsoft Azure** ✅
 
 ## Certificações almejadas
 ### AWS
