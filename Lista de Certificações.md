@@ -7,6 +7,7 @@ Legenda:
 ## Certificações alcançadas
 - **AWS Cloud Practitioner** ✅
 - **AZ-900: Fundamentos do Microsoft Azure** ✅
+- OCI Foundations Associate ✅  
 
 ## Certificações almejadas
 ### AWS
@@ -24,8 +25,7 @@ Legenda:
 - AZ-305: Designing Microsoft Azure Infrastructure Solutions
   
 ### Oracle
-- OCI Foundations Associate 📚
-- Oracle Cloud Data Management Foundations
+- Oracle Cloud Data Management Foundations 📚  
 - OCI Architect Associate
 - OCI Multicloud Architect Associate (2023)
 
