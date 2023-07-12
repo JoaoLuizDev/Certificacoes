@@ -20,7 +20,7 @@ Data da prova 12/07/2023
 Link: 
 
 ## Cronograma de estudo  
-- **Oracle Cloud Data Management Foundations** 📚 🆓
+- **Oracle Cloud Data Management Foundations** 📚 🆓  
 Início dos estudos: ago/2023  
 Data prevista para realização da prova: voucher válido até 31/08/2023  
 
