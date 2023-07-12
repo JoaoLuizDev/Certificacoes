@@ -15,14 +15,14 @@ Link: [Credly](https://www.credly.com/badges/07986551-e524-4d0e-b905-8407432526a
 Data da prova: 21/05/2023  
 Link: [Credly](https://www.credly.com/earner/earned/badge/bfc8ea4f-435c-4c85-8424-bcfe2bf1bfd7)
 
-## Cronograma de estudo
-- **OCI Foundations Associate**📚    
-Início dos estudos: jul/2023  
-Data prevista para realização da prova: até 31/08/2033  
+- **OCI Foundations Associate** ✅    
+Data da prova 12/07/2023  
+Link: 
 
-- **Oracle Cloud Data Management Foundations**  
+## Cronograma de estudo  
+- **Oracle Cloud Data Management Foundations** 📚 🆓
 Início dos estudos: ago/2023  
-Data prevista para realização da prova: ate 31/08/2023  
+Data prevista para realização da prova: voucher válido até 31/08/2023  
 
 - **AI-900: Microsoft Azure AI Fundamentals** 📚 🆓  
 Início dos estudos: jul/2023    
