@@ -5,5 +5,7 @@
 
 ![capa - readme](https://github.com/joaoluizcienciadados/Formacao_Alura-Power_BI/blob/main/ferramentas/capa-%20readme.png)
 
+<sup> 🔗 Visite também >> [Portfólio de Ciência de Dados](https://github.com/joaoluizcienciadados/) </sup>
+
 # Certificacoes
 Cronograma de estudos para exames de certificação.
