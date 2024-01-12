@@ -26,39 +26,39 @@ Link:
 
 ## Cronograma de estudo  
 - **AI-900: Microsoft Azure AI Fundamentals** 📚 🆓  
-Início dos estudos: jul/2023    
-Data prevista para realização da prova: voucher válido até 27/09/2023  
+Início dos estudos:     
+Data prevista para realização da prova:   
 
 - **SC-900: Fundamentos de segurança, conformidade e identidade da Microsoft** 📚  
-Início dos estudos: jul/2023    
-Data prevista para realização da prova: voucher válido até 27/09/2023  
+Início dos estudos:  
+Data prevista para realização da prova:  
 
 - **DP-900: Fundamentos de dados do Microsoft Azure** 📚  
-Início dos estudos: set/2023    
+Início dos estudos:  
 Data prevista para realização da prova:   
 
 - **PL-900: Conceitos básicos do Microsoft Power Platform**  
-Início dos estudos: out/2023    
-Data prevista para realização da prova: 
+Início dos estudos:    
+Data prevista para realização da prova:  
 
 - **MS-900: Microsoft 365 Fundamentals**
-Início dos estudos: nov/2023    
+Início dos estudos:  
 Data prevista para realização da prova:    
   
 - **AWS Certified Solutions Architect ‒ Associate**  
-Início dos estudos: janeiro/2024  
-Data prevista para realização da prova: jun/2024  
+Início dos estudos:   
+Data prevista para realização da prova:  
 
 - **AZ-104: Administradores do Microsoft Azure**  
-Início dos estudos:  janeiro/2024  
-Data prevista para realização da prova: jun/2024  
+Início dos estudos:   
+Data prevista para realização da prova:  
 
 - **Google Cloud Engineer**  
-Início dos estudos: jan/2024  
-Data prevista para realização da prova: ago/2024
+Início dos estudos:   
+Data prevista para realização da prova:  
 
 - **AZ-305: Designing Microsoft Azure Infrastructure Solutions**  
-Início dos estudos:  jul/2024  
-Data prevista para realização da prova: dez/2024  
+Início dos estudos:  
+Data prevista para realização da prova:  
 
 
