@@ -26,12 +26,12 @@ Link:
 
 ## Cronograma de estudo  
 - **AI-900: Microsoft Azure AI Fundamentals** 📚 🆓  
-Início dos estudos:     
+Início dos estudos: 01/05/2024  
 Data prevista para realização da prova:   
 
 - **SC-900: Fundamentos de segurança, conformidade e identidade da Microsoft** 📚  
-Início dos estudos:  
-Data prevista para realização da prova:  
+Início dos estudos: 01/04/2024
+Data prevista para realização da prova: 01/06/2024 - 20:00hs  
 
 - **DP-900: Fundamentos de dados do Microsoft Azure** 📚  
 Início dos estudos:  
