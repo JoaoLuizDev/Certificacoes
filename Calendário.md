@@ -25,9 +25,9 @@ Link:
 
 
 ## Cronograma de estudo  
-- **SC-900: Fundamentos de segurança, conformidade e identidade da Microsoft** 📚 🆓 
+- **SC-900: Fundamentos de segurança, conformidade e identidade da Microsoft** 📚 🆓   
 Início dos estudos: 01/04/2024
-Data prevista para realização da prova: 01/06/2024 - 20:00hs
+Data prevista para realização da prova: 28/06/2024 - 20:00hs
 
 - **AI-900: Microsoft Azure AI Fundamentals** 📚 🆓  
 Início dos estudos: 01/05/2024  
