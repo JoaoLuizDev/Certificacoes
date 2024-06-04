@@ -45,8 +45,8 @@ Data prevista para realização da prova:
 Início dos estudos:  
 Data prevista para realização da prova:    
   
-- **AWS Certified Solutions Architect ‒ Associate**  
-Início dos estudos:   
+- **AWS Certified Solutions Architect ‒ Associate**  📚  
+Início dos estudos: 01/06/2024    
 Data prevista para realização da prova:  
 
 - **AZ-104: Administradores do Microsoft Azure**  
